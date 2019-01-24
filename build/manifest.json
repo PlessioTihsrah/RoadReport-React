@@ -1,0 +1,21 @@
+{
+  "short_name": "Road Report",
+  "name": "Road Report",
+  "icons": [
+    {
+      "src": "road-perspective.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "road-perspective128x128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    }
+    
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
